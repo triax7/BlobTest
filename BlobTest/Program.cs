@@ -15,7 +15,7 @@ namespace BlobTest
 
         private static async Task ProcessAsync()
         {
-            string storageConnectionString = "***REMOVED***";
+            string storageConnectionString = "CONNECTION_STRING_HERE";
             CloudStorageAccount storageAccount;
             if (CloudStorageAccount.TryParse(storageConnectionString, out storageAccount))
             {
