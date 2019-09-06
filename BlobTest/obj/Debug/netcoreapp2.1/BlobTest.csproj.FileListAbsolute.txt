@@ -1,0 +1,11 @@
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\bin\Debug\netcoreapp2.1\BlobTest.deps.json
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\bin\Debug\netcoreapp2.1\BlobTest.runtimeconfig.json
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\bin\Debug\netcoreapp2.1\BlobTest.runtimeconfig.dev.json
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\bin\Debug\netcoreapp2.1\BlobTest.dll
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\obj\Debug\netcoreapp2.1\BlobTest.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\obj\Debug\netcoreapp2.1\BlobTest.AssemblyInfoInputs.cache
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\obj\Debug\netcoreapp2.1\BlobTest.AssemblyInfo.cs
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\bin\Debug\netcoreapp2.1\BlobTest.pdb
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\obj\Debug\netcoreapp2.1\BlobTest.csprojAssemblyReference.cache
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\obj\Debug\netcoreapp2.1\BlobTest.dll
+C:\Users\Ilya\source\repos\BlobTest\BlobTest\obj\Debug\netcoreapp2.1\BlobTest.pdb
